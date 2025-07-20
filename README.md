@@ -1,4 +1,4 @@
-# Literature_Review_ML
+# Literature-Review-ML
 
 This repository contains all the code for the work produced in the MAT3036 Literature Review module at the University of Surrey, Department of Mathematics. 
 
